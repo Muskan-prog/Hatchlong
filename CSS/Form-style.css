@@ -1,0 +1,1005 @@
+* {
+    text-decoration: none;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    /* margin: 0 6rem; */
+    width: 68rem;
+}
+
+
+
+section.FormSection {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+
+.MainHeadingSection.container {
+    border: 1px solid #00acff;
+    width: 68rem;
+    background-color: #00acff;
+}
+
+p.MainHeading {
+    color: white;
+    font-size: 23px;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+
+
+
+
+/* Card1 Section Starts */
+
+select#validationDefault04 {
+    width: 165%;
+
+}
+
+.part12 {
+    display: flex;
+    gap: 30%;
+}
+
+.col-md-3.part2 {
+    margin-left: -10%;
+    width: 90%;
+}
+
+.part34 {
+    display: flex;
+    gap: 3%;
+}
+
+.part1234 {
+    display: flex;
+    gap: 21%;
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.col-md-3.part3 {
+    width: 36%;
+}
+
+.col-md-3.part4 {
+    width: 59%;
+}
+
+.Card1Border {
+    border: 1px solid #00acff;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+h5.Card1Heading {
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: -1%;
+    position: relative;
+    width: 11rem;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    color: #606060;
+}
+
+/* Card1 Section Stops */
+
+/* Card2 Section Starts */
+
+.Card2Section {
+    margin-top: 3%;
+}
+
+h5.Card2Heading {
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: -1%;
+    position: relative;
+    width: 13rem;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    color: #606060;
+}
+
+.Card2Border {
+    border: 1px solid #00acff;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+/* select#validationDefault04Card2 {
+    width: 60%;
+
+} */
+
+/* 
+select#validationDefault04Card22 {
+    width: 63%;
+   
+} */
+
+.part2122 {
+    display: flex;
+    gap: 47%;
+}
+
+.col-md-3.part22 {
+    margin-left: -35%;
+    width: 70%;
+}
+
+
+.col-md-3.part23 {
+    display: flex;
+    position: relative;
+    width: 14rem;
+}
+
+.col-md-3.part24 {
+    display: flex;
+    position: relative;
+    width: 13rem;
+}
+
+
+img.calendarimg23 {
+    margin-left: -13%;
+}
+
+
+.part2324 {
+    display: flex;
+    gap: 3%;
+    width: 28rem;
+}
+
+.part21222324 {
+    display: flex;
+    margin: 0 2rem;
+    justify-content: space-between;
+}
+
+.col-md-3.part21 {
+    width: 73%;
+}
+
+.col-md-3.card2secrowbox1 {
+    width: 35%;
+}
+
+.col-md-3.card2secrowbox2 {
+    width: 35%;
+}
+
+.Card2RowBoxesandSlash {
+    display: flex;
+}
+
+p.Card2Secrowslash {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 35px;
+    margin-top: -2%;
+    color: 606060;
+}
+
+.col-md-3.card2secrowbox11 {
+    width: 14rem;
+}
+
+.col-md-3.card2secrowbox22 {
+    display: flex;
+    position: relative;
+    width: 13rem;
+}
+
+img.calendarimgbox22 {
+    margin-left: -13%;
+}
+
+.Card2SecRowrightSection {
+    display: flex;
+    gap: 3%;
+    width: 28rem;
+}
+
+
+.card2SecrowSection {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+input.form-control.Card2leftSecond1 {
+    margin-top: 4%;
+    height: 110px;
+}
+
+
+input.form-control.Card2rightSecond1 {
+    margin-top: 4%;
+    height: 110px;
+}
+
+
+.Card2SecrowSection2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 1px 2rem;
+    margin-bottom: 1%;
+}
+
+
+.col-md-3.Card2leftSecond {
+    width: 28rem;
+}
+
+.col-md-3.Card2rightSecond {
+    width: 28rem;
+}
+
+.Card2SecleftrowSection2 {
+    width: 28rem;
+}
+
+.Card2SecrightrowSection2 {
+    width: 28rem;
+}
+
+
+
+
+/* Card2 Section Stops */
+
+
+
+/* Card3 Section Starts */
+
+
+.Card3Section {
+    margin-top: 3%;
+}
+
+h5.HeadingCard3 {
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: -1%;
+    position: relative;
+    width: 5rem;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    color: #606060;
+}
+
+.Card3Border {
+    border: 1px solid #00acff;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+
+.Card3SubSection {
+    margin-left: 3%;
+    margin-right: 0%;
+}
+
+.col-md-3.Card3 {
+    display: flex;
+    gap: 5%;
+}
+
+.Card3Box31 {
+    width: 76%;
+    margin-right: -59%;
+}
+
+.Card3box3132 {
+    display: flex;
+}
+
+input.form-control.Card32 {
+    width: 128%;
+}
+
+input.form-control.Card31 {
+    width: 20%;
+}
+
+
+
+
+.Card3Box31Row2 {
+    width: 76%;
+    margin-right: -59%;
+}
+
+.Card3box3132Row2 {
+    display: flex;
+}
+
+input.form-control.Card32Row2 {
+    width: 128%;
+}
+
+input.form-control.Card31Row2 {
+    width: 20%;
+}
+
+
+
+
+.Card3Box31Row3 {
+    width: 76%;
+    margin-right: -59%;
+}
+
+.Card3box3132Row3 {
+    display: flex;
+}
+
+input.form-control.Card32Row3 {
+    width: 128%;
+}
+
+input.form-control.Card31Row3 {
+    width: 20%;
+}
+
+
+
+
+.Card3Box31Row4 {
+    width: 76%;
+    margin-right: -59%;
+}
+
+.Card3box3132Row4 {
+    display: flex;
+}
+
+input.form-control.Card32Row4 {
+    width: 128%;
+}
+
+input.form-control.Card31Row4 {
+    width: 20%;
+}
+
+
+.CardSubSection3 {
+    margin-left: 3%;
+}
+
+
+.Card3SubSectionRow2 {
+    margin-top: 2%;
+}
+
+
+.Card3SubSectionRow3 {
+    margin-top: 2%;
+   
+}
+
+.Card3SubSectionRow4 {
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+/* Card3 Section Stops */
+
+
+
+/* Card4 Section Starts */
+
+
+.Card4Section {
+    margin-top: 3%;
+}
+
+h5.Card4Heading {
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: -1%;
+    position: relative;
+    width: 11rem;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    color: #606060;
+}
+
+.Card4Border {
+    border: 1px solid #00acff;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+
+.card4Box11 {
+    width: 24rem;
+}
+
+.Card44box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+
+.card441Box22 {
+    width: 15rem;
+}
+
+.card441Box11 {
+    width: 8rem;
+}
+
+.Card441box1122 {
+    display: flex;
+}
+
+
+.Card441box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.card44Box11 {
+    width: 8rem;
+}
+
+.card44Box22 {
+    width: 15rem;
+}
+
+.Card4SubSection1 {
+    display: flex;
+    margin: 0px 2rem;
+    gap: 8%;
+}
+
+
+.Card4SubSectionRow1 {
+    width: 25rem;
+}
+
+
+.Card4SubSectionRow11 {
+    width: 24rem;
+}
+
+
+.Card4SubSectionRow2 {
+    width: 25rem;
+}
+
+
+
+
+
+
+.card422Box22 {
+    width: 24rem;
+}
+
+.card422Box11 {
+    width: 8rem;
+}
+
+.Card4SubSectionRow22 {
+    width: 25rem;
+}
+
+.Card4SubSection2 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+/* Card4SubSection3 Starts */
+
+.card433Box22 {
+    width: 15rem;
+}
+
+.card433Box11 {
+    width: 8rem;
+}
+
+
+.Card433box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card4SubSectionRow3 {
+    width: 25rem;
+}
+
+
+
+.Card4SubSection3 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+
+.card4333Box22 {
+    width: 15rem;
+}
+
+.card4333Box11 {
+    width: 8rem;
+}
+
+.Card4SubSectionRow33 {
+    width: 25rem;
+}
+
+.Card4333box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+/* Card4SubSection3 Stops */
+
+
+
+/* Card4SubSection4 Starts */
+
+.card444Box22 {
+    width: 15rem;
+}
+
+.card444Box11 {
+    width: 8rem;
+}
+
+
+.Card444box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card4SubSectionRow4 {
+    width: 25rem;
+}
+
+
+
+.Card4SubSection4 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+
+.card4444Box22 {
+    width: 15rem;
+}
+
+.card4444Box11 {
+    width: 8rem;
+}
+
+.Card4SubSectionRow44 {
+    width: 25rem;
+}
+
+.Card4444box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+/* Card4SubSection4 Stops */
+
+
+
+
+/* Card4SubSection5 Starts */
+
+.card455Box22 {
+    width: 15rem;
+}
+
+.card455Box11 {
+    width: 8rem;
+}
+
+
+.Card455box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card4SubSectionRow5 {
+    width: 25rem;
+}
+
+
+
+.Card4SubSection5 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+
+.card4555Box22 {
+    width: 15rem;
+}
+
+.card4555Box11 {
+    width: 8rem;
+}
+
+.Card4SubSectionRow55 {
+    width: 25rem;
+}
+
+.Card4555box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+/* Card4SubSection5 Stops */
+
+
+
+/* Card4SubSection6 Starts */
+
+.card466Box22 {
+    width: 24rem;
+}
+
+.card466Box11 {
+    width: 8rem;
+}
+
+
+.Card466box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card4SubSectionRow6 {
+    width: 25rem;
+}
+
+
+
+.Card4SubSection6 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+
+.card4666Box22 {
+    width: 24rem;
+}
+
+.card4666Box11 {
+    width: 8rem;
+}
+
+.Card4SubSectionRow66 {
+    width: 25rem;
+}
+
+.Card4666box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+/* Card4SubSection6 Stops */
+
+
+
+
+
+/* Card4SubSection7 Starts */
+
+.card477Box22 {
+    width: 24rem;
+}
+
+.card477Box11 {
+    width: 8rem;
+}
+
+
+.Card477box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card4SubSectionRow7 {
+    width: 25rem;
+}
+
+
+
+.Card4SubSection7 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+
+
+.card4777Box22 {
+    width: 24rem;
+}
+
+.card4777Box11 {
+    width: 8rem;
+}
+
+.Card4SubSectionRow77 {
+    width: 25rem;
+}
+
+.Card4777box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+
+
+/* Card4SubSection7 Stops */
+
+
+/* Card4 Section Stops */
+
+
+
+/* Card5 Section Starts */
+
+
+.Card5Section {
+    margin-top: 3%;
+}
+
+h5.Card5Heading {
+    margin-left: 2%;
+    margin-top: 0%;
+    margin-bottom: -1%;
+    position: relative;
+    width: 11rem;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    color: #606060;
+}
+
+.Card5Border {
+    border: 1px solid #00acff;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+
+/* Card5SubSection1 Starts */
+
+
+.card5Box22 {
+    width: 24rem;
+}
+
+.card5Box11 {
+    width: 8rem;
+}
+
+
+.Card5box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card5SubSectionRow1 {
+    width: 25rem;
+}
+
+
+.Card5SubSection1 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+}
+
+
+.card55Box22 {
+    width: 15rem;
+}
+
+.card55Box11 {
+    width: 8rem;
+}
+
+
+.Card55box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card5SubSectionRow11 {
+    width: 25rem;
+}
+
+
+/* Card5SubSection1 Stops */
+
+
+/* Card5SubSection2 Starts */
+
+.card52Box22 {
+    width: 24rem;
+}
+
+.card52Box11 {
+    width: 8rem;
+}
+
+
+.Card52box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card5SubSectionRow2 {
+    width: 25rem;
+}
+
+
+.Card5SubSection2 {
+    display: flex;
+    gap: 9.5%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+
+.card522Box22 {
+    width: 15.5rem;
+}
+
+.card522Box11 {
+    width: 8rem;
+}
+
+
+.Card522box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card5SubSectionRow2 {
+    width: 24rem;
+}
+
+
+/* Card5SubSection2 Stops */
+
+
+/* Card5SubSection3 Starts */
+
+
+.card53Box22 {
+    width: 24rem;
+}
+
+.card53Box11 {
+    width: 8rem;
+}
+
+
+.Card53box1122 {
+    display: flex;
+    gap: 3%;
+}
+
+.Card5SubSectionRow3 {
+    width: 25rem;
+}
+
+.Card5SubSection3 {
+    display: flex;
+    gap: 8%;
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+/* Card5SubSection3 Stops */
+
+
+/* Card5SubSection4 Starts */
+
+
+.card54Box22 {
+    width: 55rem;
+}
+
+
+textarea.form-control.Card421 {
+    height: 6rem;
+}
+
+.Card5SubSectionRow4 {
+    margin: 0px 2rem;
+    margin-top: 2%;
+}
+
+.Card5SubSection4 {
+    margin-bottom: 1%;
+}
+
+
+/* Card5SubSection4  Stops */
+
+
+
+/* Card5 Section Stops */
+
+
+/* Button Section Starts */
+
+.Savebtnclass {
+    border: 1px solid #00acff;
+    border-radius: 5px;
+    background-color: #00acff;
+    color: white;
+    width: 8%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+}
+
+.CancelLink {
+    text-decoration: none;
+    color: #606060;
+    font-size: 18px;
+
+}
+
+.ButtonSection {
+    margin: 0px 2rem;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+
+/* Button Section Stops */

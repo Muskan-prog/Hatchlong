@@ -1,0 +1,130 @@
+* {
+    text-decoration: none;
+}
+
+
+section.SignInMainSection.container {
+
+    border: 1px solid #606060;
+    width: 40%;
+}
+
+
+.LogoSection {
+    text-align: center;
+}
+
+
+.MainHeadingSection{
+    text-align: center;
+    margin-top: 3%;
+    color: #606060;
+}
+
+
+
+
+img.UsernameImage {
+    width: 15px;
+}
+
+
+p.usernameHeadingSection {
+    font-size: 18px;
+    margin-top: 7%;
+    color: #606060;
+}
+
+
+input.Usernameclass {
+    border: none;
+    width: 74%;
+    font-size: 16px;
+    color: #dddddd;
+    margin-top: 2%;
+    outline: none;
+}
+
+hr.Line1 {
+    margin-top: -1%;
+    width: 90%;
+}
+
+.UsernameSection {
+    margin-left: 8%;
+}
+
+::placeholder{
+    color: #dddddd;
+
+}
+
+
+
+
+
+
+img.PasswordImage {
+    width: 15px;
+}
+
+
+p.PasswordHeadingSection {
+    font-size: 18px;
+    margin-top: 7%;
+    color: #606060;
+}
+
+
+input.Passwordclass {
+    border: none;
+    width: 74%;
+    font-size: 16px;
+    color: #dddddd;
+    margin-top: 2%;
+    outline: none;
+}
+
+hr.Line1 {
+    margin-top: -1%;
+    width: 90%;
+}
+
+.PasswordSection {
+    margin-left: 8%;
+}
+
+::placeholder{
+    color: #dddddd;
+
+}
+
+
+.SignIn {
+    background-color: #00Acff;
+    border: 1px solid #00acff;
+    color: white;
+    width: 30%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+
+.SignInBtnSection {
+    text-align: center;
+    margin-top: 8%;
+}
+
+
+.ForgetPasswordSection {
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 5%;
+}
+
+.ForgetPasswordClass{
+    text-decoration: none;
+    color: #606060;
+}
